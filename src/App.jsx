@@ -7,8 +7,9 @@ import {
 import MainLayout from "./layouts/MainLayout";
 import HomePage from "./pages/HomePage";
 import JobsPage from "./pages/JobsPage";
-import NotFoundPage from "./pages/NotFoundPage";
+import NotFoundPage from './pages/NotFoundPage';
 import JobPage from "./pages/JobPage";
+
 
 const router = createBrowserRouter(
   createRoutesFromElements(
